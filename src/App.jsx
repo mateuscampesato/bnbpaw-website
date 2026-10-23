@@ -444,7 +444,7 @@ function HomePage() {
               )}
 
               <p className="service-detail">{service.detail}</p>
-              <a href="/terms" className="service-detail-tcs">Terms and Conditions apply</a>
+              <Link to="/terms" className="service-detail-tcs">Terms & Conditions apply</Link>
             </article>
           ))}
         </div>
