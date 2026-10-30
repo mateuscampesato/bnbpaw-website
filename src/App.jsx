@@ -326,10 +326,10 @@ function HomePage() {
       </section>
       <div className="ticker" aria-label="Loving care, tailored to your pet">
         <div>
-          TAILORED TO YOUR PET <span>✳</span> HAPPY PETS, HAPPY PEOPLE{" "}
-          <span>✳</span> LITTLE PAWS, LOTS OF LOVE <span>✳</span>TAILORED TO
-          YOUR PET <span>✳</span> HAPPY PETS, HAPPY PEOPLE <span>✳</span> LITTLE
-          PAWS, LOTS OF LOVE <span>✳</span>
+          3+ YEARS EXPERIENCE <span>✳</span> HAPPY PETS, HAPPY PEOPLE{" "}
+          <span>✳</span> FULLY INSURED <span>✳</span>TAILORED TO
+          YOUR PET <span>✳</span> DBS CHECKED <span>✳</span> LITTLE
+          PAWS, LOTS OF LOVE <span>✳</span><span>CANINE FIRST AID</span>
         </div>
       </div>
       {/* REVIEW/TESTIMONIAL SECTION */}
@@ -406,10 +406,10 @@ function HomePage() {
 
       <div className="ticker" aria-label="Loving care, tailored to your pet">
         <div>
-          TAILORED TO YOUR PET <span>✳</span> HAPPY PETS, HAPPY PEOPLE{" "}
-          <span>✳</span> LITTLE PAWS, LOTS OF LOVE <span>✳</span>TAILORED TO
-          YOUR PET <span>✳</span> HAPPY PETS, HAPPY PEOPLE <span>✳</span> LITTLE
-          PAWS, LOTS OF LOVE <span>✳</span>
+          3+ YEARS EXPERIENCE <span>✳</span> HAPPY PETS, HAPPY PEOPLE{" "}
+          <span>✳</span> FULLY INSURED <span>✳</span>TAILORED TO
+          YOUR PET <span>✳</span> DBS CHECKED <span>✳</span> LITTLE
+          PAWS, LOTS OF LOVE <span>✳</span><span>CANINE FIRST AID</span>
         </div>
       </div>
 
@@ -456,10 +456,10 @@ function HomePage() {
 
       <div className="ticker" aria-label="Loving care, tailored to your pet">
         <div>
-          TAILORED TO YOUR PET <span>✳</span> HAPPY PETS, HAPPY PEOPLE{" "}
-          <span>✳</span> LITTLE PAWS, LOTS OF LOVE <span>✳</span>TAILORED TO
-          YOUR PET <span>✳</span> HAPPY PETS, HAPPY PEOPLE <span>✳</span> LITTLE
-          PAWS, LOTS OF LOVE <span>✳</span>
+          3+ YEARS EXPERIENCE <span>✳</span> HAPPY PETS, HAPPY PEOPLE{" "}
+          <span>✳</span> FULLY INSURED <span>✳</span>TAILORED TO
+          YOUR PET <span>✳</span> DBS CHECKED <span>✳</span> LITTLE
+          PAWS, LOTS OF LOVE <span>✳</span><span>CANINE FIRST AID</span>
         </div>
       </div>
 
